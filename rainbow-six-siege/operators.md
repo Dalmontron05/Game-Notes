@@ -17,7 +17,7 @@ Operators I'm willing to main that bring value to the team.
 
 ## Wall Openers
 - Thatcher
-- Maverick
+- **Maverick**
 <!-- Spacer between Dedicated and Secondary -->
 - ~~Blackbeard~~
 - Sledge
