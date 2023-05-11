@@ -6,26 +6,25 @@ Operators I'm willing to main that bring value to the team.
 >If an operator is listed as a sub bulletin for another operator, they are considered an alternative for that operator.
 
 
-## Attack
-### Hard Breachers
+# Attack
+## Hard Breachers
 - **Ace**
-  - Thermite
 <!-- Spacer between Dedicated and Secondary -->
-- **Fuze** || Gadget Denial
-- **Zero** || Entry Fragger
-- Buck || Soft Breacher
+- **Fuze** 
+- **Zero**
+- Buck
 
 
-### EMPS
+## Wall Openers
 - Thatcher
+- Maverick
 <!-- Spacer between Dedicated and Secondary -->
 - ~~Blackbeard~~
+- Sledge
 - Osa
-- Sledge || Soft Breach
 
-### ETC
-  - Flores
-  - Iana
+## ETC
+- Iq
 
 -----------
 
