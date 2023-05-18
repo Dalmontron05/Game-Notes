@@ -8,3 +8,9 @@ https://www.mouse-sensitivity.com/
 
 Windows sensitivity: default
 G502 mouse sensitivity: 2600
+
+# TEMP insurgancy
+Look Sensitivity: 0.7571 (Calculated)    
+Aim Down Signs Sensitivity: 1.1459 (Calculated)
+
+Location: In-game
