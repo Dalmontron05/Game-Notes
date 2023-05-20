@@ -13,8 +13,9 @@ Windows sensitivity: default
 G502 mouse sensitivity: 2600    
 
 # TEMP insurgancy
+(insurgancy rounds all numbers to the ten-thousanths)
 Look Sensitivity: 0.7571 (Calculated)    
 ADS Multiplier: 1.1459 (Calculated)
-ADS Sensitivity: 0.86756089
+ADS Sensitivity: 0.8676
 
 Location: In-game
