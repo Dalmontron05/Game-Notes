@@ -20,3 +20,8 @@ ADS Sensitivity: 0.8676<!-- Calculated (siege -> insurgancy). -->
 
 
 Location: In-game
+
+
+# Temp ready or not
+Mouse Sensitivity: 0.55
+
