@@ -1,0 +1,10 @@
+# Insurgency Settings
+Since I'm not backing up my games, it's important to note important settings I have in the event the drive data is lost. These are also noted for sensitivity conversion.
+
+
+# Sensitivity [(mouse-sensitivity)](https://www.mouse-sensitivity.com/)
+<!-- (insurgency rounds all numbers to the ten-thousandths) -->
+Look Sensitivity: 0.7571    <!-- Calculated (siege -> insurgency). Used the average of vertical and horizontal hipfire sensitivities in siege. -->     
+ADS Sensitivity: 0.8676     <!-- Calculated (siege -> insurgency). -->  <!-- ADS Multiplier: 1.1459 -->     
+
+Location: In-game
