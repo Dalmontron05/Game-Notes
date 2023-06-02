@@ -9,3 +9,5 @@ https://www.mouse-sensitivity.com/
 Windows sensitivity: default    
 G502 mouse sensitivity: 2600    
 
+# (temp) Doki Doki Literature Club
+Poem words https://primagames.com/tips/doki-doki-literature-club-plus-poem-words-guide-each-characters-favorite-words
