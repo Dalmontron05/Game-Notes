@@ -11,3 +11,9 @@ G502 mouse sensitivity: 2600
 
 # (temp) Doki Doki Literature Club
 Poem words https://primagames.com/tips/doki-doki-literature-club-plus-poem-words-guide-each-characters-favorite-words
+
+# (temp) doom eternal
+Mouse Sensitivity Scaling (4.8)   
+Mouse Horizontal Sensitivity (94)   
+Mouse Vertical Sensitivity (75)   
+
