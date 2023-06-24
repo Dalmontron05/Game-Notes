@@ -4,7 +4,7 @@ Since I'm not backing up my games, it's important to note important settings I h
 
 # Sensitivity [(mouse-sensitivity)](https://www.mouse-sensitivity.com/)
 <!-- (insurgency rounds all numbers to the ten-thousandths) -->
-Look Sensitivity: 0.7571    <!-- Calculated (siege -> insurgency). Used the average of vertical and horizontal hipfire sensitivities in siege. -->     
-ADS Sensitivity: 0.8676     <!-- Calculated (siege -> insurgency). -->  <!-- ADS Multiplier: 1.1459 -->     
+Look Sensitivity: 0.11 (low sens)    <!-- Calculated (siege -> insurgency). Used the average of vertical and horizontal hipfire sensitivities in siege. -->     
+ADS Sensitivity: 1.0 (low sens)     <!-- Calculated (siege -> insurgency). -->  <!-- ADS Multiplier: 1.1459 -->     
 
 Location: In-game
