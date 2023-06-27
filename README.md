@@ -9,7 +9,7 @@ https://aiming.pro/mouse-sensitivity-calculator
 https://www.mouse-sensitivity.com/
 
 Windows sensitivity: default    
-G502 mouse sensitivity: 2600    
+G502 mouse sensitivity: 1200  
 
 
 # Steam Launch Options
