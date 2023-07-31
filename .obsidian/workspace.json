@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd75e9e805e1c4ca",
+        "id": "bd37961df710315e",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4fdc2a12cbd781",
+            "id": "9cba1de387fd38ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Game-Notes/pokemon/pokemon-diamond.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,14 +58,6 @@
             }
           },
           {
-            "id": "14033eedddf977a7",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "8a19083ad2760e62",
             "type": "leaf",
             "state": {
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Game-Notes/pokemon/pokemon-diamond.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Game-Notes/pokemon/pokemon-diamond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Game-Notes/pokemon/pokemon-diamond.md"
               }
             }
           },
@@ -146,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,15 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd4fdc2a12cbd781",
+  "active": "9cba1de387fd38ee",
   "lastOpenFiles": [
-    "Game-Notes/genshin-impact/calendar.md",
     "README.md",
-    "Game-Notes/insurgency-sandstorm/settings.md",
-    "Game-Notes/ready-or-not/settings.md",
     "Game-Notes/pokemon/pokemon-diamond.md",
     "Game-Notes/pokemon/pokemon types.jpg",
+    "Journal/2023-07-31.md",
+    "Game-Notes/README.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "School-Notes/4 - Pre-Calculus/precalc-cultimating-activity.md",
     "Journal/2023-07-30.md",
+    "Game-Notes/genshin-impact/calendar.md",
+    "Game-Notes/insurgency-sandstorm/settings.md",
+    "Game-Notes/ready-or-not/settings.md",
     "Journal/2023-01-22.md",
     "Journal/2023-01-20.md",
     "Journal/2023-01-15.md",
