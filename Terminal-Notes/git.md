@@ -1,3 +1,10 @@
+# Interacting with a Git Repository
+These notes are to help show you the main basic important interactions within git. For the full documentation, see the [Git Refrence](https://git-scm.com/docs). Unless you're the one maintaining a repository, there will only be so many of these commands you need to know.
+
+## At the start of a programming session
+```git fetch --all``` **Makes sure git refrences are up to date.** Failure to do this may make commands like git status misleading.
+
+
 > MAKING A NEW GIT REPOSITORY:
 git clone <url> | clones an online repository locally
 
