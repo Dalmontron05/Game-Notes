@@ -6,3 +6,12 @@ takes 100 steps to recharge
 #### Forgetting HM Moves
 some bro under/near the pokemon center in that town on the water. make sure to teach the better version of the rock throw move for geodude once you unlock him
 
+#### Crazed ninja guy left to town
+Go to Route 209!
+Go underground!
+Listen to the stone pillar!
+Talk to people underground!
+
+#### Normal joe in fashion town left of gym
+I was given the HM Strength at the Lost Tower
+The Lost Tower is on Route 209 on the way to Solaceon Town.
