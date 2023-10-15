@@ -3,7 +3,6 @@ Operators I usually play
 
 
 # Attack
-## Hard Breachers
 - Fuze
 - Ace
 - Sledge/Thatcher
