@@ -3,14 +3,14 @@ Since I'm not backing up my games, it's important to note important settings I h
 
 
 # Sensitivity
-Mouse Sensitivity Horizontal 3 (low sens)    
-Mouse Sensitivity Vertical: 3 (low sens)  
+Mouse Sensitivity Horizontal 10   
+Mouse Sensitivity Vertical: 10  
 
-Standard ADS Sensitivity: 50   
+Standard ADS Sensitivity: 52   
 1.0x - 12.0x are all the same
 
 Location: In-game
 
 # Video  
-FOV: 75     
+FOV: 90     
 
