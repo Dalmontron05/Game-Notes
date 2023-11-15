@@ -5,7 +5,7 @@ Operators I usually play
 # Attack
 - Fuze
 - Ace
-- Sledge/Thatcher
+- Ram
 
 -----------
 
