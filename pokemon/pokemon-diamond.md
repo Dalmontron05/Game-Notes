@@ -14,6 +14,7 @@ literally everything else except for moo moo milk
 takes 100 steps to recharge
 
 ## Forgetting HM Moves
-some bro under/near the pokemon center in that town on the water. make sure to teach the better version of the rock throw move for geodude once you unlock him
+house under/near the pokemon center in that town on the water.
 
-steel wing -> starvia? maybe make them not useless???
+## Moves to learn
+try to learn a ground and steel type move (mostly need ground). you can unlearn fireblash if you do
