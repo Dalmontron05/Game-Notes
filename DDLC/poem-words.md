@@ -1,1 +1,1 @@
-[Poem Words](https://primagames.com/tips/doki-doki-literature-club-plus-poem-words-guide-each-characters-favorite-words)
+[The Poem Words](https://primagames.com/tips/doki-doki-literature-club-plus-poem-words-guide-each-characters-favorite-words)

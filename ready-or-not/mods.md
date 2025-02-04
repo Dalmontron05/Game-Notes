@@ -1,4 +1,4 @@
-# General Info and Configuration
+# General Info and Configuration 
 make sure to disable checksum   
 mods: https://mod.io/g/readyornot   
 

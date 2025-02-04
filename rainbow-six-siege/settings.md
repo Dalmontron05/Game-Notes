@@ -1,4 +1,4 @@
-# Sensitivity
+# Sensitivity 
 Mouse Sensitivity Horizontal 10   
 Mouse Sensitivity Vertical: 10  
 

@@ -1,4 +1,4 @@
-# Calander
+# Calander 
 Schedule to gain resources in this retarded gatcha game     
 - Go for crimson set for dilic and xiangling first, then go for "Artifact: Emblem of Severed Fate" for xiangling
 - Xiangling Spear: Aim for "The Catch"

@@ -1,4 +1,4 @@
- # Pokemon Diamond Notes
+ # Pokemon Diamond Notes 
 
 ## Where to Buy Shit
 **Cafe Cabin**
