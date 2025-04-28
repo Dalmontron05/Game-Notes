@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1783eb254431dd7e","type":"file","file":"Portrait.jpg","x":-100,"y":-200,"width":249,"height":400,"color":"2"},
+		{"id":"bda9c21869d21229","type":"text","text":"# Eldrick Steelhoof\n*Cleric - Centaur - Lawful Good*\n","x":-119,"y":220,"width":287,"height":140,"color":"2"},
+		{"id":"064d3268516cb45a","type":"text","text":"\n| STR     | 16     |\n| ------- | ------ |\n| **DEX** | **10** |\n| **CON** | **18** |\n| **INT** | **9**  |\n| **WIS** | **15** |\n| **CHA** | **14** |\n","x":-340,"y":-200,"width":180,"height":220,"color":"5"},
+		{"id":"8ab618df06196af5","type":"text","text":"`HP: 107`\n`AC: 21`\n`Initiative: 0`\n`Speed: 40`","x":-345,"y":60,"width":190,"height":118,"color":"5"}
+	],
+	"edges":[]
+}
