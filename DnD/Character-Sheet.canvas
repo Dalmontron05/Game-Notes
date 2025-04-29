@@ -1,9 +1,12 @@
 {
 	"nodes":[
-		{"id":"1783eb254431dd7e","type":"file","file":"Portrait.jpg","x":-100,"y":-200,"width":249,"height":400,"color":"2"},
-		{"id":"bda9c21869d21229","type":"text","text":"# Eldrick Steelhoof\n*Cleric - Centaur - Lawful Good*\n","x":-119,"y":220,"width":287,"height":140,"color":"2"},
-		{"id":"064d3268516cb45a","type":"text","text":"\n| STR     | 16     |\n| ------- | ------ |\n| **DEX** | **10** |\n| **CON** | **18** |\n| **INT** | **9**  |\n| **WIS** | **15** |\n| **CHA** | **14** |\n","x":-340,"y":-200,"width":180,"height":220,"color":"5"},
-		{"id":"8ab618df06196af5","type":"text","text":"`HP: 107`\n`AC: 21`\n`Initiative: 0`\n`Speed: 40`","x":-345,"y":60,"width":190,"height":118,"color":"5"}
+		{"id":"bda9c21869d21229","type":"text","text":"# Eldrick Steelhoof\n*Cleric - Centaur - Lawful Good*\n","x":-445,"y":-235,"width":300,"height":120,"color":"2"},
+		{"id":"5c39887d49dba7f7","type":"text","text":"Climbing Deficiency: 20ft\n\nLanguages:\n- Common\n- Goblin\n- Orc","x":-445,"y":-90,"width":300,"height":255,"color":"4"},
+		{"id":"6dfdcd70c828c3c2","type":"text","text":"**Spellcasting Class | Spellcasting Ability | Spell Save DC | Spell Attack Bonus**\n```\nCleric - Full |      Wisdom     |      15     |         3\n```","x":-450,"y":200,"width":611,"height":115},
+		{"id":"791f0cec836bb243","type":"file","file":"DnD/Abilities.md","x":200,"y":-235,"width":380,"height":815},
+		{"id":"1783eb254431dd7e","type":"file","file":"Portrait.jpg","x":-100,"y":-235,"width":249,"height":400,"color":"2"},
+		{"id":"064d3268516cb45a","type":"text","text":"\n| STR     | 16     |\n| ------- | ------ |\n| **DEX** | **10** |\n| **CON** | **18** |\n| **INT** | **9**  |\n| **WIS** | **15** |\n| **CHA** | **14** |\n","x":-325,"y":360,"width":180,"height":220,"color":"5"},
+		{"id":"8ab618df06196af5","type":"text","text":"`Level: 10`\n\n`HP: 107`\n`AC: 21`\n`Initiative: 0`\n`Speed: 40`","x":-119,"y":380,"width":190,"height":180,"color":"5"}
 	],
 	"edges":[]
 }
