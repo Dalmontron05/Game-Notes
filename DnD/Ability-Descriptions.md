@@ -7,14 +7,20 @@
 ---
 ## Temporary Singular Uses
 - Divine Intervention
+  > **Can only be used once. You will get another use at level 20**
+  > 
   > Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.  
   > 
   > Imploring your deity's aid requires you to use your [action](https://roll20.net/compendium/dnd5e/Combat#toc_20). Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your cleric level, your deity intervenes. The DM chooses the nature of the intervention; the effect of any cleric spell or cleric [domain](https://roll20.net/compendium/dnd5e/Cleric#toc_5) spell would be appropriate. If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a [long rest](https://roll20.net/compendium/dnd5e/Resting#toc_2).  
   > 
   > At 20th level, your call for intervention succeeds automatically, no roll required.
 - Power Word Kill
+- > **Can only be used once**
+  > 
   > You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 - True Resurrection
+  > **Can only be used once**
+  > 
   > You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.  
   > 
   > This spell closes all wounds, neutralizes any [poison](https://roll20.net/compendium/dnd5e/Rules:Poisons?expansion=34047#content), cures all [diseases](https://roll20.net/compendium/dnd5e/Rules:Diseases?expansion=34047#content), and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs or limbs.  
