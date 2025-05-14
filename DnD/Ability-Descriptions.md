@@ -2,8 +2,8 @@
 <p align="center">
 	<img src="./Assets/DnD-Logo.png" alt="DnD Logo" width="300"/>
 </p>
-
 # Features
+
 ---
 ## Temporary Singular Uses
 - Divine Intervention
@@ -15,7 +15,7 @@
   > 
   > At 20th level, your call for intervention succeeds automatically, no roll required.
 - Power Word Kill
-- > **Can only be used once**
+> **Can only be used once**
   > 
   > You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
 - True Resurrection
@@ -41,6 +41,38 @@
   > You are blessed with divine might in battle. When **a creature** takes damage from one of your cantrips or weapon attacks, you can also deal 1d8 radiant damage to **that creature**. Once you deal this damage, you can’t use this feature again until the start of your next turn.
 - Death Strike
   > At 8th level, you gain the ability to infuse your weapon strikes with necrotic energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 necrotic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+- Glyph Fingies (1)
+> When you cast this spell, you inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface
+> - As a table or a section of floor or wall
+> - Within an object that can be closed (such as a book, a scroll, or a treasure chest to conceal the glyph.
+>   
+> The glyph can cover an area no larger than 10 feet in diameter.
+> - If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
+> - The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.
+> 
+> You decide what triggers the glyph when you cast the spell.
+> - For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed.
+> - For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.
+> 
+> You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics
+> - 1. Height or weight
+> - 2. Creature kind (for example, the ward could be set to affect aberrations or drow. 
+> - 3. Alignment
+>   
+> You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. When you inscribe the glyph, choose explosive runes or a spell glyph.
+>  
+> Explosive Runes. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.
+> 
+> Spell Glyph. You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration.
+- Black Tentacles
+  > Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the Duration, these tentacles turn the ground in the area into difficult terrain.
+  > 
+  > When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be Restrained by the tentacles until the spell ends. A creature that starts its turn in the area and is already Restrained by the tentacles takes 3d6 bludgeoning damage.
+  > 
+  > A creature Restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself.
+
+- Spell Distance
+ > when it comes to casting spells distance wise, 60ft-120ft is 1x the spell level damage to myself. 120ft-180ft is 2x, 180ft - 240ft is 3x and so on.
 # Spells
 ---
 ## Cantrips

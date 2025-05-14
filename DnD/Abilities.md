@@ -12,6 +12,7 @@
 - Anti-Healing Aura (1)
 - Blessed Strikes
 - Death Strike
+- Glyph Fingies
 # Spells
 ---
 ## Cantrips
