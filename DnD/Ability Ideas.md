@@ -35,3 +35,12 @@ This effect doesn't work when you eyes are obstructed, like by a blindfold or a 
 Your Pupil is dilated and your Iris softly glows. When you eyes aren't obstructed, you are able to see the name, resistances, ~~vulnerabilities~~, and immunities of creatures within your line of sight.
 
 However, you are vulnerable to Psychic damage
+# Piercing Blood
+- action
+You have small incisions throughout your arms that you can open and close at will. As an action, you can coagulate your own blood into a ball between your hands and shoot it straight up to 150ft away. This blood can piece through multiple targets at once. Using this ability damages you. The damage you take is irrecoverable until the battle ends.
+
+Using it over a cone of a certain amount of feet makes you take more damage
+- 3ft - 1d6
+- 10ft - 2d6
+- 20ft - 2d10
+- 30ft - 3d10
