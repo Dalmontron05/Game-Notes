@@ -4,14 +4,14 @@ Notes from sessions. We're kinda like halfway through the campaign already mf ga
 - We chose to go back in time to find a common catalyst between 5 different periods of time to save the timeline.
 - We told the bartender that we'd kill the giant spider for free. We went in and polymorphed it into a snail for an hour.
 - Current contenders for common catalyst (**has to be strong**)
-	- Grendle
-	- Depressed blonde at the bar (maldraq)
 	- Iris's two fluffy summons
-	- The Handsome Devil
-	- Raslin's brother (Caramere)
-	- Iomadae
-	- Bartender
-	- Can of soup
+	- Grendle
+	- ~~Depressed blonde at the bar (maldraq)~~
+	- ~~The Handsome Devil~~
+	- ~~Raslin's brother (Caramere)~~
+	- ~~Iomadae~~
+	- ~~Bartender~~
+	- ~~Can of soup~~
 Next time we'll try summoning Grendle and finding a way to get out of the past.
 
 # 5/10/2025
@@ -20,3 +20,6 @@ Next time we'll try summoning Grendle and finding a way to get out of the past.
 
 je veux jeter + healing spell
 The Reckoning
+
+# 7/26/2025
+Lucas dragon riding friend is Soth
